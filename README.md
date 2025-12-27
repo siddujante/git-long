@@ -1,2 +1,2 @@
-# git-long
+# git-log
 five commits are required
